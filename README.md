@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/SolidifyDemo/github-games-sk-king-sk.git
+You can play the game at: https://solidifydemo.github.io/github-games-sk-king-sk
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
